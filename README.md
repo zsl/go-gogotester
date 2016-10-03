@@ -1,2 +1,2 @@
 # go-gogotester
-¼ì²âgg¿ÉÓÃµÄip
+æ£€æµ‹ggå¯ç”¨çš„ip
